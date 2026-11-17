@@ -3,7 +3,7 @@
   "description": "Demonstrates AWS Lambda durable functions using Node.js with automatic checkpointing, durable waits, and fault tolerance for long-running workflows.",
   "language": "Node.js",
   "level": "200",
-  "framework": "SAM",
+  "framework": "AWS SAM",
   "introBox": {
     "headline": "How it works",
     "text": [
